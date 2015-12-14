@@ -1,2 +1,2 @@
 # pocOauthClient
-POC Oauth client for Distributed Systems using the Oauth provider created by a another group in the class
+POC Oauth client for our Distributed Systems class using the Oauth provider created by a another group in the class
